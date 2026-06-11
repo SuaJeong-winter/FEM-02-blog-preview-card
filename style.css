@@ -6,6 +6,31 @@
   --gray950: hsl(0, 0%, 7%);
 }
 
-* {
+body {
   background-color: var(--yellow);
+}
+
+main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 98vh;
+}
+
+article {
+  background-color: var(--white);
+  border: solid var(--gray950);
+  border-width: 1.5px;
+  /* border-width: 1.5px 0.5rem 0.5rem 1.5px; */
+  box-shadow: 5px 5px 0 0 black;
+  border-radius: 20px;
+  width: 320px;
+  height: 499px;
+}
+
+.thumbnail {
+  width: 300px;
+  height: 180px;
+  margin: 16px 10px;
+  border-radius: 10px;
 }
