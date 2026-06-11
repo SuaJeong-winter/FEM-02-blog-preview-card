@@ -32,7 +32,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://github.com/SuaJeong-winter/FEM-02-blog-preview-card)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://suajeong-winter.github.io/FEM-02-blog-preview-card/)
 
 ## My process
 
